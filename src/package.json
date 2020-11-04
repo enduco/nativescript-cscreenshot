@@ -4,6 +4,12 @@
 	"description": "Your Take a View Screenshot Nativescript Plugin!",
 	"main": "cscreenshot",
 	"typings": "index.d.ts",
+	"nativescript": {
+		"platforms": {
+			"android": "7.0.1",
+			"ios": "7.0.4"
+		}
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/enduco/nativescript-cscreenshot.git"
